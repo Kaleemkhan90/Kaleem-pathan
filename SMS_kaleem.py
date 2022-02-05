@@ -67,14 +67,14 @@ logo=print(blue+"""
 
 text=str(input(yellow+" \n\n\n Wellcom —=—........  \n\n\n \t\tEnter To Continue [>] : "))
 
-text=lightblue+"\t\tModified By : "+yellow+"ADNAN..........Elite Cracker"+cyan+"\n\n\t\t★★ "+purple+"$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"+cyan+"★★   \n" 
+text=lightblue+"\t\tModified By : "+yellow+"KALEEM..........Elite Cracker"+cyan+"\n\n\t\t★★ "+purple+"$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"+cyan+"★★   \n" 
 def header():
  print(logo)
  print(text)
  print(line)
 
 #SEC
-header()
+header(pakistan)
 print(red+"____________________________________________________")
 print(blue+"\t\tYou need to security key")
 print(red+"---------------------------------------------------‌‌‌‌‌‌‌-")
@@ -141,7 +141,7 @@ while True:
 ·······΅ΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫΫ""")
 
 
-	print(red+" [>] ADNAN SMS BombeR ~For BD~\n [>] Contact Me–")
+	print(red+" [>] KALEEM SMS BombeR ~For BD~\n [>] Contact Me–")
 	a=str(input(" [+]select Your Option : "))
 	if a =="1":
 		os.system ("python3 bomb.py ")
