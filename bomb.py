@@ -75,7 +75,7 @@ line2=("\t\t~~~~~~~~~~~~~~~~~~~~~~~~~~")
 
 dtls=(red+"\t\t Created By: KALEEM KHAN")
 
-note=(cyan+"\n\n ============================= \n Author/Modifier : Adnan Islam\n =============================\n Facebook : www.facebook.com/Adnan.Islam.0.2\n=============================\n Creator : ADNAN ISLAM       \n=============================\n GITHUB : https://github.com/AD4NAN\n=============================\n FB Page: www.facebook.com/Adnan.Islam.0.2")
+note=(cyan+"\n\n ============================= \n Author/Modifier : Kaleem khan =============================\n Facebook : KALEEM KHAN.0.2\n=============================\n Creator : KALEEM KHAN KPK     \n=============================\n GITHUB :https://github.com/Kaleemkhan90 \n=============================\n Whatsapp group:https://chat.whatsapp.com/LU08e9sMJjtK370pU2tNr8 .0.2")
 
 
 print(logo)
