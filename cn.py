@@ -19,4 +19,4 @@ yellow="\033[0;33m"       # Yellow
 
 #cn.py
 
-print(red+"##################\n =============================\n Creatot : ADNAN ISLAM    \n =============================\n Facebook : www.facebook.com/Adnan.Islam.0.2\n =============================\n Modifier : Adnan Islam\n =============================\n GITHUB : https://github.com/AD4NAN\n =============================\n FB Page: www.facebook.com/Adnan.Islam\n==========================================================")
+print(red+"##################\n =============================\n Creatot : Kaleem khan \n =============================\n Facebook :https://www.facebook.com/profile.php?id=100073373811231 .0.2\n =============================\n Modifier : Mr kalee/m=============================\n GITHUB : https://github.com/Kaleemkhan90 \n =============================\n FB Page:https: //www.facebook.com/groups/445304014003381/?ref=share ==========================================================")
