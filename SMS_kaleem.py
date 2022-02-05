@@ -74,14 +74,14 @@ def header():
  print(line)
 
 #SEC
-header(pakistan)
+header()
 print(red+"____________________________________________________")
 print(blue+"\t\tYou need to security key")
 print(red+"---------------------------------------------------‌‌‌‌‌‌‌-")
 n=2
 while n==2:
  a=str(input(red+"\n\n\t\t[>] Enter`~   Creator Security Key [>]"+green))
- if a=="Get_Love":
+ if a=="Kaleem-kpk":
   print(green+"\n\n\t\t[ √ ] Request Accepted")
   n=3
  else:
